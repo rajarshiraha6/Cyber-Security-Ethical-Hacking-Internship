@@ -16,4 +16,5 @@ VirtualBox Installation ->
 
  Screenshots :
 - Screenshot 1: VirtualBox installed
+- screenshot 2: VirtualBox main window
 - Screenshot 2: VM → Settings → Network → Host-only Adapter
